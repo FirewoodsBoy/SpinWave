@@ -1,6 +1,6 @@
 # SpinWave Library (Refactored)
 
-A modern, object-oriented C++ library for calculating spin-wave excitations, self-energy corrections, and dynamic structure factors in quantum magnetic systems. This is a complete refactoring of the original codebase with improved safety, modularity, and maintainability.
+A object-oriented library for calculating spin-wave excitations, self-energy corrections, and dynamic structure factors in quantum magnetic systems. This is a complete refactoring of the original codebase with improved safety, modularity, and maintainability.
 
 ## Key Features
 
