@@ -31,7 +31,7 @@ A object-oriented library for calculating spin-wave excitations, self-energy cor
 
 ## Dependencies
 
-*   **C++ Compiler:** C++20 compatible compiler (GCC, Clang, MSVC).
+*   **C++ Compiler:** C++17 compatible compiler (GCC, Clang, MSVC).
 *   **LAPACK & BLAS:** Required for linear algebra operations.
 *   **OpenMP:** Used for parallelization.
 
