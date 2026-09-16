@@ -4,7 +4,7 @@ A object-oriented library for calculating spin-wave excitations, self-energy cor
 
 ## Key Features
 
-*   **Modern C++ Design:** Uses C++20 features, smart pointers, RAII, and a clean class hierarchy to manage memory safely and reduce leaks.
+*   **Modern C++ Design:** Uses C++17 features, smart pointers, RAII, and a clean class hierarchy to manage memory safely and reduce leaks.
 *   **Modular Architecture:** Functionality is separated into distinct, focused classes:
     *   **`SpinWave`:** Core spin-wave calculations including Holstein-Primakoff transformation and Bogoliubov diagonalization.
     *   **`MeanField`:** Hartree-Fock decoupling and self-consistent field (SCF) calculations.
